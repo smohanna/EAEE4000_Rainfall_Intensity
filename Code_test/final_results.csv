@@ -1,0 +1,3 @@
+Model,RMSE (mm/h),MAE,R2 Score,Training Time (s)
+Gradient Boosting (GBM),4.78,2.63,0.979,37.2
+Neural Network (MLP),5.72,3.14,0.97,13.7
